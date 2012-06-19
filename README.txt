@@ -4,7 +4,6 @@
 
 Author: Nicholas Kim
 Artwork: Nicholas Kim (credit for background space image to NASA, in the public domain)
-This program should only be found at my website, Technetia (http://technetia.ca/).
 
 To run the program:
 - If using the source, run the main file. (1-x_graph_machine.pyw) Python 2.5-2.7 and Pygame are required. (If running from the command line, you will need to type something like "python 1-x_graph_machine.pyw")
