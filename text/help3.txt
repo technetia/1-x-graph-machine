@@ -1,0 +1,19 @@
+Functions I
+
+Miscellaneous
+-- abs(x): absolute value of x
+-- sqrt(x): square root of x
+
+Integral Conversion
+-- floor(x): highest integer <= x
+-- ceil(x): lowest integer >= x
+
+Angle Conversion
+-- deg(x): x from radians to degrees
+-- rad(x): x from degrees to radians
+
+Exponential/Logarimithic
+-- exp(x): e^x
+-- ln(x): log (base e) of x
+-- log10(x): log (base 10) of x
+-- log(x, base=e): log (base base) of x

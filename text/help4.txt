@@ -1,0 +1,18 @@
+Functions II
+
+Trigonometric
+
+NOTE: Arguments are in radians.
+
+-- sin(x), cos(x), tan(x): sine, cosine, tangent of x, respectively
+-- asin(x), acos(x), atan(x): inverses of the above, respectively
+
+-- csc(x), sec(x), cot(x): cosecant, secant, cotangent of x, respectively
+-- acsc(x), asec(x), acot(x): inverses of the above, respectively
+
+Hyperbolic
+-- sinh(x), cosh(x), tanh(x): hyperbolic sine, cosine, tangent of x, respectively
+-- asinh(x), acosh(x), atanh(x): inverses of the above, respectively
+
+-- csch(x), sech(x), coth(x): hyperbolic cosecant, secant, cotangent of x, respectively
+-- acsch(x), asech(x), acoth(x): inverses of the above, respectively

@@ -1,0 +1,3 @@
+# constants.py
+
+RESOLUTION = SCR_WIDTH, SCR_HEIGHT = 800, 600

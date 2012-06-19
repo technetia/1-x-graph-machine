@@ -1,0 +1,26 @@
+Overview
+
+Graph
+
+-- Enter your functions (in terms of x) in the given spaces.
+-- You do not need to use all the given spaces.
+-- Next to each given space is a button with a color. Each function uses the color next to it.
+-- Use the left mouse button to cycle through the colors.
+-- Once your functions are graphed:
+   -- Press Esc to return.
+   -- Press the left mouse button to toggle the coordinate indicator on/off.
+   -- Press the tilde (~) to create an image of the current graph.
+   -- Images are saved in the same directory as the program.
+
+Settings
+
+-- NOTE: All settings are saved permanently until changed.
+-- Grid: turns grid on/off
+-- Axes: turns x- and y-axes on/off
+-- Graph animation: turns on/off delay in plotting graphs
+-- x_left, x_right: max left and right coordinates of graph (x_right must be > x_left)
+-- y_top, y_bottom: max top and bottom coordinates of graph (y_top must be > y_bottom)
+-- x_inc, y_inc: distance between grid lines (must be > 0)
+
+
+-- If you're confused, experimentation is your friend.

@@ -1,0 +1,16 @@
+Constants And Operators
+
+Constants
+-- e (2.71828...)
+-- pi (3.14159...)
+
+Operators
+-- + (addition)
+-- - (subtraction)
+-- * (multiplication)
+-- / (floating-point division)
+-- // (integer division)
+-- % (modulus)
+-- ** or ^ (exponentation)
+
+NOTE: Implied multiplication is supported if a constant is written just prior to x, as in 3x.

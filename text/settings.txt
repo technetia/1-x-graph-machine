@@ -1,0 +1,9 @@
+GRID_ON 1
+AXES_ON 1
+GRAPH_ANIM 1
+x_left -12
+x_right 12
+x_inc 1
+y_bottom -9
+y_top 9
+y_inc 1
