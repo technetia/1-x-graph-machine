@@ -2,7 +2,7 @@
 =1-X Graph Machine: Readme=
 -=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Author: Nicholas Kim
+Author: Nicholas Kim (http://technetia.ca/)
 Artwork: Nicholas Kim (credit for background space image to NASA, in the public domain)
 
 To run the program:
@@ -17,7 +17,7 @@ To use the program:
 
 License (MIT License):
 
-Copyright (C) 2012 Nicholas Kim
+Copyright (C) 2012 Nicholas Kim (http://technetia.ca/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
